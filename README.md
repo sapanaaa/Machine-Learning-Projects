@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-this repository contains some of the projects on machine learning algorithms
+This repository contains some of the projects on machine learning algorithms learned from youtube and datasets sourced online
